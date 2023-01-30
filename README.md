@@ -36,7 +36,7 @@ The following animation demonstrates the application functionality:
 
 
 ### deployed live URL
-
+https://apeachcc.github.io/Daily-Planner-App/
 
 
 
